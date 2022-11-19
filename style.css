@@ -3,6 +3,10 @@
     src:url("coffee+tea-Medium.otf")
 }
 
+body{
+    background-color: green;
+}
+
 .workout{
     align-items: center;
     text-align: center;
@@ -12,18 +16,10 @@
 }
 
 
-h3{
-    text-align: center;
-    color: #fff;
-    font-weight: bold;
-    font-size: 1.02em;
-    font-family: "coffee+tea-Medium";
-}
-
 .title {
     padding: 20px;
-    font: 16px/20px Arial, sans-serif;
-    color: #999;
+    font: 20px/24px "coffee+tea-Medium";
+    color: #fff;
     text-align: center;
   }
   
